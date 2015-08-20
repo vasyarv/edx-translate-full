@@ -5,8 +5,11 @@
 `ru.yml` `/edx/app/forum/cs_comments_service/locale/`
 
 
-
-
+##Перевод платформы
+Собрать файлы `.ро` , которые лежат в edx-platform (делается под виртуальным окружением)
+```bash
+/edx/app/edxapp/venvs/edxapp/bin/paver i18n_fastgenerate
+```
 
 ##Перевод ORA2
 Делаем fork https://github.com/edx/edx-ora2  (мой аккаунт vasyarv)

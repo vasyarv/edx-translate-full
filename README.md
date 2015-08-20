@@ -8,6 +8,7 @@
 ##Перевод платформы
 Собрать файлы `.ро` , которые лежат в edx-platform (делается под виртуальным окружением)
 ```bash
+cd /edx/app/edxapp/edx-platform
 /edx/app/edxapp/venvs/edxapp/bin/paver i18n_fastgenerate
 ```
 

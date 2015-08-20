@@ -1,5 +1,13 @@
 #Переводы
 
+##Что где лежит
+
+`ru.yml` `/edx/app/forum/cs_comments_service/locale/`
+
+
+
+
+
 ##Перевод ORA2
 Делаем fork https://github.com/edx/edx-ora2  (мой аккаунт vasyarv)
 
